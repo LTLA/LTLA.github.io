@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## The Aaronverse
 
-You can use the [editor on GitHub](https://github.com/LTLA/LTLA.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a central indexing page for all Bioconductor software packages managed by me, **Aaron Lun**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LTLA/LTLA.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Software |  BioC-release  | BioC-devel | 
+|:----------------:|:----------------:|:----------------:|:----------------:|
+| [csaw](http://bioconductor.org/packages/csaw) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/csaw.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/csaw) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/release/bioc/csaw.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/csaw) |
