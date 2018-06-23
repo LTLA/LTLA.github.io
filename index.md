@@ -1,4 +1,6 @@
-# The Aaronverse
+---
+title: Welcome to the Aaronverse
+---
 
 ## Overview
 
